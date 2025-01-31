@@ -1,3 +1,4 @@
+
 resource "digitalocean_droplet" "droplet" {
   count    = var.droplet_count
   name     = "${var.droplet_name}-${count.index + 1}"

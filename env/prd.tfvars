@@ -1,3 +1,4 @@
+
 region       = "sfo2"
 droplet_size = "s-4vcpu-8gb"
 environment  = "prd"

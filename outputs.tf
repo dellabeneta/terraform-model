@@ -1,3 +1,4 @@
+
 output "droplet_public_ips" {
   description = "IPs públicos dos Droplets"
   value = {

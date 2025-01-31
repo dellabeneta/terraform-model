@@ -1,3 +1,4 @@
+
 region       = "nyc3"
 droplet_size = "s-2vcpu-2gb"
 environment  = "stg"
