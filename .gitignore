@@ -1,0 +1,8 @@
+.terraform.lock.hcl
+.terraform/terraform.tfstate
+credentials.auto.tfvars
+.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.48.2/linux_amd64/terraform-provider-digitalocean_v2.48.2
+.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.48.2/linux_amd64/LICENSE
+.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.48.2/linux_amd64/README.md
+.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.48.2/linux_amd64/CHANGELOG.md
+.terraform/environment
