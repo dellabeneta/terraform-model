@@ -1,8 +1,22 @@
-.terraform.lock.hcl
-.terraform/terraform.tfstate
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Credentials
 credentials.auto.tfvars
-.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.48.2/linux_amd64/terraform-provider-digitalocean_v2.48.2
-.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.48.2/linux_amd64/LICENSE
-.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.48.2/linux_amd64/README.md
-.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.48.2/linux_amd64/CHANGELOG.md
-.terraform/environment
+*.auto.tfvars
+
+# CLI configuration files
+.terraformrc
+terraform.rc
+
+# Terraform lock file
+.terraform.lock.hcl
