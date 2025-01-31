@@ -1,3 +1,5 @@
+![Terraform Multi-Environment Base](assets/banner.jpg)
+
 # Terraform Multi-Environment Base
 
 Este projeto serve como um modelo base para iniciar projetos Terraform com múltiplos ambientes (dev, staging, prod) sem utilizar módulos, mantendo uma estrutura simples e direta.
